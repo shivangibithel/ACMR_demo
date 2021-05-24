@@ -6,4 +6,4 @@ If you have any questions regarding use of framework, please contact Shivangi Bi
 
 [1]  Bokun Wang, Yang Yang, Xing Xu, Alan Hanjalic, and Heng Tao Shen. "Adversarial Cross-Modal Retrieval". In Proceedings of 25th ACM International Conference on Multimedia (ACM MM), 2017.
 
-href="https://cfm.uestc.edu.cn/~yangyang/papers/acmr.pdf">ACMR paper</a>
+<a href="https://cfm.uestc.edu.cn/~yangyang/papers/acmr.pdf"> ACMR paper</a>
