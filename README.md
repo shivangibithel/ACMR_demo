@@ -1,12 +1,8 @@
 ### Reproducing the results of "Adversarial Cross-modal Retrieval (ACMR) using a comparator framework"
 
-To run the demo: 
+To run the demo: checkout the Ipython Notebook
 
-    # Wikipedia dataset
-    python train_adv_crossmodal_simple_wiki.py # with contrastive loss
-    python train_adv_crossmodal_triplet_wiki.py # with triplet loss
-
-I have prepared the data in the "./data" folder. If you have any question, please contact Bokun Wang at shivangibithel@gmail.com. 
+If you have any questions regarding use of framework, please contact Shivangi Bithel at shivangibithel@gmail.com. 
 
 [1]  Bokun Wang, Yang Yang, Xing Xu, Alan Hanjalic, and Heng Tao Shen. "Adversarial Cross-Modal Retrieval". In Proceedings of 25th ACM International Conference on Multimedia (ACM MM), 2017.
 
